@@ -1,0 +1,4 @@
+(Department VARCHAR(20) ,
+Employee_ID INTEGER,
+Location VARCHAR(20),
+State char(20))

@@ -1,0 +1,6 @@
+Name VARCHAR(30) ,
+Employee_ID INTEGER,
+First_Name VARCHAR(10),
+Last_Name VARCHAR(10),
+Department VARCHAR(20),
+Hours INTEGER

@@ -1,0 +1,6 @@
+Smith	John	(212)444-7866	325.60	saving 
+Biden	Joe	(716)111-3356	2000.53	checking
+Obama	Barak	(310)777-1212	5000.32	checking
+Boehner	John	(509)888-1234	6120.55	savings
+Bush	George	(607)567-2345	200.00	savings
+Clinton	Hillary	(212)456-2378	1000.50	checking
